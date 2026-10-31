@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# EXE build files
+build/
+dist/
+*.spec
+
+# Private data (AMOX creates these)
+notes.txt
+activity_log.txt
+screenshot_*.png
+
+# Secrets
+.env
+*.key
+api_key.txt
+
+# VS Code
+.vscode/
